@@ -1,0 +1,8 @@
+Benifits of Using Meta tag?
+Ans:Meta tags serve various purposes, from improving search engine optimization (SEO) to enhancing the user experience and providing important information about web pages.
+
+1.Improved SEO
+2.Enhanced User Experience
+3.Better Accessibility
+4.Search Engine Crawling
+5.Geolocation and Language Information
